@@ -1,0 +1,27 @@
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P002\P002\bin\Debug\P002.exe
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P002\P002\bin\Debug\P002.pdb
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P002\P002\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P002\P002\obj\x86\Debug\P002.FormParticoes.resources
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P002\P002\obj\x86\Debug\P002.Properties.Resources.resources
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P002\P002\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P002\P002\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P002\P002\obj\x86\Debug\P002.exe.licenses
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P002\P002\obj\x86\Debug\P002.exe
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P002\P002\obj\x86\Debug\P002.pdb
+C:\Users\Iasmim\Desktop\P002\P002\P002\obj\x86\Debug\P002.exe
+C:\Users\Iasmim\Desktop\P002\P002\P002\obj\x86\Debug\P002.pdb
+C:\Users\Iasmim\Desktop\P002\P002\P002\bin\Debug\P002.exe.config
+C:\Users\Iasmim\Desktop\P002\P002\P002\obj\x86\Debug\P002.FormParticoes.resources
+C:\Users\Iasmim\Desktop\P002\P002\P002\obj\x86\Debug\P002.Properties.Resources.resources
+C:\Users\Iasmim\Desktop\P002\P002\P002\obj\x86\Debug\P002.csproj.GenerateResource.Cache
+C:\Users\Iasmim\Desktop\P002\P002\P002\obj\x86\Debug\P002.exe.licenses
+C:\Users\Iasmim\Desktop\P002\P002\P002\bin\Debug\P002.exe
+C:\Users\Iasmim\Desktop\P002\P002\P002\bin\Debug\P002.pdb
+C:\Users\Iasmim\Desktop\P002\P002\P002\bin\Debug\DevExpress.XtraEditors.v10.1.dll
+C:\Users\Iasmim\Desktop\P002\P002\P002\bin\Debug\DevExpress.XtraLayout.v10.1.dll
+C:\Users\Iasmim\Desktop\P002\P002\P002\bin\Debug\DevExpress.Utils.v10.1.dll
+C:\Users\Iasmim\Desktop\P002\P002\P002\bin\Debug\DevExpress.Data.v10.1.dll
+C:\Users\Iasmim\Desktop\P002\P002\P002\bin\Debug\DevExpress.XtraEditors.v10.1.xml
+C:\Users\Iasmim\Desktop\P002\P002\P002\bin\Debug\DevExpress.XtraLayout.v10.1.xml
+C:\Users\Iasmim\Desktop\P002\P002\P002\bin\Debug\DevExpress.Utils.v10.1.xml
+C:\Users\Iasmim\Desktop\P002\P002\P002\bin\Debug\DevExpress.Data.v10.1.xml
