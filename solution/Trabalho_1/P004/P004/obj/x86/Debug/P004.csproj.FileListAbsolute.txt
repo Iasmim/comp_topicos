@@ -1,0 +1,9 @@
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P004\P004\bin\Debug\P004.exe
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P004\P004\bin\Debug\P004.pdb
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P004\P004\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P004\P004\obj\x86\Debug\P004.FormParticao.resources
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P004\P004\obj\x86\Debug\P004.Properties.Resources.resources
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P004\P004\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P004\P004\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P004\P004\obj\x86\Debug\P004.exe
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P004\P004\obj\x86\Debug\P004.pdb
