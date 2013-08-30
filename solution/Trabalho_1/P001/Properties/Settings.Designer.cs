@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Exe_1.Properties {
+namespace P001.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

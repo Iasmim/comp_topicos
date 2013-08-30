@@ -15,7 +15,8 @@ namespace Exe_1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormExe2());
+            
+            Application.Run(new FormBasico3());
         }
     }
 }

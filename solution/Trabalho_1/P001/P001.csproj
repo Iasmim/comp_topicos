@@ -8,8 +8,8 @@
     <ProjectGuid>{F35C82F9-9856-4D7A-8EF3-6B2E86AC7B3D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Exe_1</RootNamespace>
-    <AssemblyName>Exe_1</AssemblyName>
+    <RootNamespace>P001</RootNamespace>
+    <AssemblyName>P001</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
@@ -47,27 +47,37 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CE\Class_exe_1.cs" />
-    <Compile Include="CE\Class_exe_2.cs" />
-    <Compile Include="FormExe1.cs">
+    <Compile Include="CE\CE_Bola.cs" />
+    <Compile Include="CE\CE_Quadrado.cs" />
+    <Compile Include="CE\CE_Retangulo.cs" />
+    <Compile Include="FormBasico3.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormExe1.Designer.cs">
-      <DependentUpon>FormExe1.cs</DependentUpon>
+    <Compile Include="FormBasico3.Designer.cs">
+      <DependentUpon>FormBasico3.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormExe2.cs">
+    <Compile Include="FormBasico1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormExe2.Designer.cs">
-      <DependentUpon>FormExe2.cs</DependentUpon>
+    <Compile Include="FormBasico1.Designer.cs">
+      <DependentUpon>FormBasico1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBasico2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBasico2.Designer.cs">
+      <DependentUpon>FormBasico2.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FormExe1.resx">
-      <DependentUpon>FormExe1.cs</DependentUpon>
+    <EmbeddedResource Include="FormBasico1.resx">
+      <DependentUpon>FormBasico1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormExe2.resx">
-      <DependentUpon>FormExe2.cs</DependentUpon>
+    <EmbeddedResource Include="FormBasico2.resx">
+      <DependentUpon>FormBasico2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBasico3.resx">
+      <DependentUpon>FormBasico3.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

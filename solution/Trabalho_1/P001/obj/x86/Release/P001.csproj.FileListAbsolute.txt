@@ -1,0 +1,11 @@
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\bin\Release\Exe_1.exe.config
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\bin\Release\Exe_1.exe
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\bin\Release\Exe_1.pdb
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\Exe_1.FormBasico1.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\Exe_1.FormBasico2.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\Exe_1.FormBasico3.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\Exe_1.Properties.Resources.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.csproj.GenerateResource.Cache
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\Exe_1.exe
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\Exe_1.pdb
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\bin\Release\P001.exe.config
