@@ -11,12 +11,27 @@ namespace P001
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            
-            Application.Run(new FormBasico4());
+                switch (args[0])
+                {
+                    case "0":
+                        Application.Run(new FormBasico1());
+                        break;
+                    case "1":
+                        Application.Run(new FormBasico2());
+                        break;
+                    case "2":
+                        Application.Run(new FormBasico3());
+                        break;
+                    case "3":
+                        Application.Run(new FormBasico4());
+                        break;
+                    default:
+                        break;
+                }
         }
     }
 }
