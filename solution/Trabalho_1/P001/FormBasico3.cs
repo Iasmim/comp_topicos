@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Exe_1
+namespace P001
 {
     /*Classe Retangulo: Crie uma classe que modele um retangulo:
 

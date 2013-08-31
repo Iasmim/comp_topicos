@@ -6,8 +6,8 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-using Exe_1.CE;
-namespace Exe_1
+using P001.CE;
+namespace P001
 {
     public partial class FormBasico2 : Form
     {

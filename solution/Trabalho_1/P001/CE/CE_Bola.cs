@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Basicos.CE
+namespace P001.CE
 {
     public class CE_Bola
     {

@@ -1,4 +1,4 @@
-﻿namespace Exe_1
+﻿namespace P001
 {
     partial class FormBasico3
     {

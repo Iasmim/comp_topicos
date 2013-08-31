@@ -1,9 +1,6 @@
 C:\Users\Iasmim\documents\visual studio 2010\Projects\Exe_Basicos\Exe_1\bin\Debug\Exe_1.exe.config
 C:\Users\Iasmim\documents\visual studio 2010\Projects\Exe_Basicos\Exe_1\obj\x86\Debug\Exe_1.exe
 C:\Users\Iasmim\documents\visual studio 2010\Projects\Exe_Basicos\Exe_1\obj\x86\Debug\Exe_1.pdb
-C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\Exe_1.FormBasico1.resources
-C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\Exe_1.FormBasico2.resources
-C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\Exe_1.FormBasico3.resources
 C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\P001.csproj.GenerateResource.Cache
 C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\bin\Debug\P001.exe.config
 C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\bin\Debug\P001.exe
@@ -11,3 +8,7 @@ C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\bin\Debug\P001.pdb
 C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\P001.Properties.Resources.resources
 C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\P001.exe
 C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\P001.pdb
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\P001.FormBasico4.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\P001.FormBasico1.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\P001.FormBasico2.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\P001.FormBasico3.resources
