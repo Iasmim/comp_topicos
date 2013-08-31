@@ -12,3 +12,4 @@ C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\P001
 C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\P001.FormBasico1.resources
 C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\P001.FormBasico2.resources
 C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\P001.FormBasico3.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Debug\P001.FormBasico5.resources

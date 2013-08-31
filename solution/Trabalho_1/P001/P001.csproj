@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CE\CE_Bola.cs" />
+    <Compile Include="CE\CE_ContaCorrente.cs" />
     <Compile Include="CE\CE_Pessoa.cs" />
     <Compile Include="CE\CE_Quadrado.cs" />
     <Compile Include="CE\CE_Retangulo.cs" />
@@ -75,6 +76,12 @@
     <Compile Include="FormBasico4.Designer.cs">
       <DependentUpon>FormBasico4.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormBasico5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBasico5.Designer.cs">
+      <DependentUpon>FormBasico5.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormBasico1.resx">
@@ -88,6 +95,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormBasico4.resx">
       <DependentUpon>FormBasico4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBasico5.resx">
+      <DependentUpon>FormBasico5.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

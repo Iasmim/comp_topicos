@@ -29,6 +29,9 @@ namespace P001
                     case "3":
                         Application.Run(new FormBasico4());
                         break;
+                    case "4":
+                        Application.Run(new FormBasico5());
+                        break;
                     default:
                         break;
                 }
