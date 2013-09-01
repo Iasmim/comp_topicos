@@ -1,0 +1,6 @@
+c:\users\leandro farias\documents\visual studio 2012\Projects\Questao17\Questao17\bin\Debug\Questao17.exe.config
+c:\users\leandro farias\documents\visual studio 2012\Projects\Questao17\Questao17\obj\Debug\Questao17.csprojResolveAssemblyReference.cache
+c:\users\leandro farias\documents\visual studio 2012\Projects\Questao17\Questao17\bin\Debug\Questao17.exe
+c:\users\leandro farias\documents\visual studio 2012\Projects\Questao17\Questao17\bin\Debug\Questao17.pdb
+c:\users\leandro farias\documents\visual studio 2012\Projects\Questao17\Questao17\obj\Debug\Questao17.exe
+c:\users\leandro farias\documents\visual studio 2012\Projects\Questao17\Questao17\obj\Debug\Questao17.pdb
