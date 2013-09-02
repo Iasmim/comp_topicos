@@ -1,0 +1,6 @@
+c:\users\leandro farias\documents\visual studio 2012\Projects\Desarranjo\Desarranjo\bin\Debug\Desarranjo.exe.config
+c:\users\leandro farias\documents\visual studio 2012\Projects\Desarranjo\Desarranjo\obj\Debug\Desarranjo.csprojResolveAssemblyReference.cache
+c:\users\leandro farias\documents\visual studio 2012\Projects\Desarranjo\Desarranjo\bin\Debug\Desarranjo.exe
+c:\users\leandro farias\documents\visual studio 2012\Projects\Desarranjo\Desarranjo\bin\Debug\Desarranjo.pdb
+c:\users\leandro farias\documents\visual studio 2012\Projects\Desarranjo\Desarranjo\obj\Debug\Desarranjo.exe
+c:\users\leandro farias\documents\visual studio 2012\Projects\Desarranjo\Desarranjo\obj\Debug\Desarranjo.pdb

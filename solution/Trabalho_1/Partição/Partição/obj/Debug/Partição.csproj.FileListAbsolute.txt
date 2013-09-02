@@ -1,0 +1,6 @@
+c:\users\leandro farias\documents\visual studio 2012\Projects\Partição\Partição\bin\Debug\Partição.exe.config
+c:\users\leandro farias\documents\visual studio 2012\Projects\Partição\Partição\bin\Debug\Partição.exe
+c:\users\leandro farias\documents\visual studio 2012\Projects\Partição\Partição\bin\Debug\Partição.pdb
+c:\users\leandro farias\documents\visual studio 2012\Projects\Partição\Partição\obj\Debug\Partição.csprojResolveAssemblyReference.cache
+c:\users\leandro farias\documents\visual studio 2012\Projects\Partição\Partição\obj\Debug\Partição.exe
+c:\users\leandro farias\documents\visual studio 2012\Projects\Partição\Partição\obj\Debug\Partição.pdb
