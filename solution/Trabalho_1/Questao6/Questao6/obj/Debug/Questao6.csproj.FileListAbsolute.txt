@@ -1,0 +1,6 @@
+c:\users\leandro farias\documents\visual studio 2012\Projects\Questao6\Questao6\bin\Debug\Questao6.exe.config
+c:\users\leandro farias\documents\visual studio 2012\Projects\Questao6\Questao6\obj\Debug\Questao6.csprojResolveAssemblyReference.cache
+c:\users\leandro farias\documents\visual studio 2012\Projects\Questao6\Questao6\bin\Debug\Questao6.exe
+c:\users\leandro farias\documents\visual studio 2012\Projects\Questao6\Questao6\bin\Debug\Questao6.pdb
+c:\users\leandro farias\documents\visual studio 2012\Projects\Questao6\Questao6\obj\Debug\Questao6.exe
+c:\users\leandro farias\documents\visual studio 2012\Projects\Questao6\Questao6\obj\Debug\Questao6.pdb
