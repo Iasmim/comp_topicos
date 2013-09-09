@@ -1,3 +1,0 @@
-C:\Users\Iasmim\documents\visual studio 2010\Projects\Exe_Basicos\Exe_1\obj\x86\Release\Basicos.FormExe1.resources
-C:\Users\Iasmim\documents\visual studio 2010\Projects\Exe_Basicos\Exe_1\obj\x86\Release\Exe_1.Properties.Resources.resources
-C:\Users\Iasmim\documents\visual studio 2010\Projects\Exe_Basicos\Exe_1\obj\x86\Release\Exe_1.csproj.GenerateResource.Cache

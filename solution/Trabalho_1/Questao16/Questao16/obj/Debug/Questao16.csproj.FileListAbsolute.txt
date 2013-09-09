@@ -3,3 +3,6 @@ c:\users\leandro farias\documents\visual studio 2012\Projects\Questao16\Questao1
 c:\users\leandro farias\documents\visual studio 2012\Projects\Questao16\Questao16\bin\Debug\Questao16.pdb
 c:\users\leandro farias\documents\visual studio 2012\Projects\Questao16\Questao16\obj\Debug\Questao16.exe
 c:\users\leandro farias\documents\visual studio 2012\Projects\Questao16\Questao16\obj\Debug\Questao16.pdb
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questao16\Questao16\bin\Debug\Questao16.exe.config
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questao16\Questao16\obj\Debug\Questao16.exe
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questao16\Questao16\obj\Debug\Questao16.pdb

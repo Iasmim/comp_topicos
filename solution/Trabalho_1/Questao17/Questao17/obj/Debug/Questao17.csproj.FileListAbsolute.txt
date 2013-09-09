@@ -4,3 +4,6 @@ c:\users\leandro farias\documents\visual studio 2012\Projects\Questao17\Questao1
 c:\users\leandro farias\documents\visual studio 2012\Projects\Questao17\Questao17\bin\Debug\Questao17.pdb
 c:\users\leandro farias\documents\visual studio 2012\Projects\Questao17\Questao17\obj\Debug\Questao17.exe
 c:\users\leandro farias\documents\visual studio 2012\Projects\Questao17\Questao17\obj\Debug\Questao17.pdb
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questao17\Questao17\bin\Debug\Questao17.exe.config
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questao17\Questao17\obj\Debug\Questao17.exe
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questao17\Questao17\obj\Debug\Questao17.pdb

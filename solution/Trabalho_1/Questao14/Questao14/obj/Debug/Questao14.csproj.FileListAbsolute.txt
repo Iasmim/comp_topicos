@@ -4,3 +4,6 @@ c:\users\leandro farias\documents\visual studio 2012\Projects\Questao14\Questao1
 c:\users\leandro farias\documents\visual studio 2012\Projects\Questao14\Questao14\bin\Debug\Questao14.pdb
 c:\users\leandro farias\documents\visual studio 2012\Projects\Questao14\Questao14\obj\Debug\Questao14.exe
 c:\users\leandro farias\documents\visual studio 2012\Projects\Questao14\Questao14\obj\Debug\Questao14.pdb
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questao14\Questao14\bin\Debug\Questao14.exe.config
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questao14\Questao14\obj\Debug\Questao14.exe
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questao14\Questao14\obj\Debug\Questao14.pdb
