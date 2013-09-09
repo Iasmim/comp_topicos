@@ -1,0 +1,15 @@
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P011\P011\obj\x86\Debug\Questoes 11-14.csprojResolveAssemblyReference.cache
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P011\P011\obj\x86\Debug\P011.Form_Carro.resources
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P011\P011\obj\x86\Debug\P011.Form_Funcionario.resources
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P011\P011\obj\x86\Debug\P011.Form_Invertimento.resources
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P011\P011\obj\x86\Debug\P011.Properties.Resources.resources
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P011\P011\obj\x86\Debug\Questoes 11-14.csproj.GenerateResource.Cache
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P011\P011\obj\x86\Debug\P011.exe.licenses
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P011\P011\obj\x86\Debug\P011.exe
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P011\P011\obj\x86\Debug\P011.pdb
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P011\P011\bin\Debug\P011.exe.config
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P011\P011\obj\x86\Debug\P011.Form_Investimento.resources
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questoes de 11-14\Questoes de 11-14\bin\Debug\P011.exe.config
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questoes de 11-14\Questoes de 11-14\obj\x86\Debug\P011.exe
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questoes de 11-13\Questoes de 11-13\bin\Debug\P011.exe.config
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questoes de 11-13\Questoes de 11-13\obj\x86\Debug\P011.exe

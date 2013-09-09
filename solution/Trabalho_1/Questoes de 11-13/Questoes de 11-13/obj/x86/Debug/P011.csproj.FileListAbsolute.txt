@@ -1,0 +1,16 @@
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P011\P011\bin\Debug\P011.exe.config
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P011\P011\bin\Debug\P011.exe
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P011\P011\bin\Debug\P011.pdb
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P011\P011\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P011\P011\obj\x86\Debug\P011.FormCarro.resources
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P011\P011\obj\x86\Debug\P011.Properties.Resources.resources
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P011\P011\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P011\P011\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P011\P011\obj\x86\Debug\P011.exe
+c:\documents and settings\4506006815\meus documentos\visual studio 2010\Projects\P011\P011\obj\x86\Debug\P011.pdb
+C:\Documents and Settings\4506006815\meus documentos\visual studio 2010\Projects\P011\P011\obj\x86\Debug\P011.FormInvertimento.resources
+C:\Documents and Settings\4506006815\meus documentos\visual studio 2010\Projects\P011\P011\obj\x86\Debug\P011.exe.licenses
+C:\Documents and Settings\4506006815\meus documentos\visual studio 2010\Projects\P011\P011\obj\x86\Debug\P011.FormFuncionario.resources
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P011\P011\bin\Debug\P011.exe.config
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P011\P011\obj\x86\Debug\P011.exe
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P011\P011\obj\x86\Debug\P011.pdb

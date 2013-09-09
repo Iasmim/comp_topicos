@@ -1,0 +1,6 @@
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\bin\Release\P001.exe.config
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.exe
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.pdb
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questoes de 1-5\bin\Release\P001.exe.config
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questoes de 1-5\obj\x86\Release\P001.exe
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questoes de 1-5\obj\x86\Release\P001.pdb
