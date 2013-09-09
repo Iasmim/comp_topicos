@@ -25,3 +25,6 @@ C:\Users\Iasmim\Desktop\P002\P002\P002\bin\Debug\DevExpress.XtraEditors.v10.1.xm
 C:\Users\Iasmim\Desktop\P002\P002\P002\bin\Debug\DevExpress.XtraLayout.v10.1.xml
 C:\Users\Iasmim\Desktop\P002\P002\P002\bin\Debug\DevExpress.Utils.v10.1.xml
 C:\Users\Iasmim\Desktop\P002\P002\P002\bin\Debug\DevExpress.Data.v10.1.xml
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P002\P002\bin\Debug\P002.exe.config
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P002\P002\obj\x86\Debug\P002.exe
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P002\P002\obj\x86\Debug\P002.pdb

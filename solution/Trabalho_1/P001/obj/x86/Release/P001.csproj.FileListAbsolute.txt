@@ -9,3 +9,16 @@ C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P0
 C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.Properties.Resources.resources
 C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.exe
 C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.pdb
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\bin\Release\P001.exe.config
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.exe
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.pdb
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\bin\Release\P001.exe
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\bin\Release\P001.pdb
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.csprojResolveAssemblyReference.cache
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.Properties.Resources.resources
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.csproj.GenerateResource.Cache
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.Form_Bola.resources
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.Form_Quadrado.resources
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.Form_Retangulo.resources
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.Form_Pessoa.resources
+C:\Users\Joelton\Documents\GitHub\comp_topicos\solution\Trabalho_1\P001\obj\x86\Release\P001.Form_ContaCorrente.resources

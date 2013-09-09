@@ -4,6 +4,6 @@
     <StartArguments>4</StartArguments>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
-    <StartArguments>4</StartArguments>
+    <StartArguments>3</StartArguments>
   </PropertyGroup>
 </Project>

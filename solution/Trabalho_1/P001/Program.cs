@@ -18,19 +18,19 @@ namespace P001
                 switch (args[0])
                 {
                     case "0":
-                        Application.Run(new FormBasico1());
+                        Application.Run(new Form_Bola());
                         break;
                     case "1":
-                        Application.Run(new FormBasico2());
+                        Application.Run(new Form_Quadrado());
                         break;
                     case "2":
-                        Application.Run(new FormBasico3());
+                        Application.Run(new Form_Retangulo());
                         break;
                     case "3":
-                        Application.Run(new FormBasico4());
+                        Application.Run(new Form_Pessoa());
                         break;
                     case "4":
-                        Application.Run(new FormBasico5());
+                        Application.Run(new Form_ContaCorrente());
                         break;
                     default:
                         break;

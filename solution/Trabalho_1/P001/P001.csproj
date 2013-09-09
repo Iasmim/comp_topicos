@@ -52,52 +52,52 @@
     <Compile Include="CE\CE_Pessoa.cs" />
     <Compile Include="CE\CE_Quadrado.cs" />
     <Compile Include="CE\CE_Retangulo.cs" />
-    <Compile Include="FormBasico3.cs">
+    <Compile Include="Form_Retangulo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormBasico3.Designer.cs">
-      <DependentUpon>FormBasico3.cs</DependentUpon>
+    <Compile Include="Form_Retangulo.Designer.cs">
+      <DependentUpon>Form_Retangulo.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormBasico1.cs">
+    <Compile Include="Form_Bola.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormBasico1.Designer.cs">
-      <DependentUpon>FormBasico1.cs</DependentUpon>
+    <Compile Include="Form_Bola.Designer.cs">
+      <DependentUpon>Form_Bola.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormBasico2.cs">
+    <Compile Include="Form_Quadrado.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormBasico2.Designer.cs">
-      <DependentUpon>FormBasico2.cs</DependentUpon>
+    <Compile Include="Form_Quadrado.Designer.cs">
+      <DependentUpon>Form_Quadrado.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormBasico4.cs">
+    <Compile Include="Form_Pessoa.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormBasico4.Designer.cs">
-      <DependentUpon>FormBasico4.cs</DependentUpon>
+    <Compile Include="Form_Pessoa.Designer.cs">
+      <DependentUpon>Form_Pessoa.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormBasico5.cs">
+    <Compile Include="Form_ContaCorrente.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormBasico5.Designer.cs">
-      <DependentUpon>FormBasico5.cs</DependentUpon>
+    <Compile Include="Form_ContaCorrente.Designer.cs">
+      <DependentUpon>Form_ContaCorrente.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FormBasico1.resx">
-      <DependentUpon>FormBasico1.cs</DependentUpon>
+    <EmbeddedResource Include="Form_Bola.resx">
+      <DependentUpon>Form_Bola.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormBasico2.resx">
-      <DependentUpon>FormBasico2.cs</DependentUpon>
+    <EmbeddedResource Include="Form_Quadrado.resx">
+      <DependentUpon>Form_Quadrado.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormBasico3.resx">
-      <DependentUpon>FormBasico3.cs</DependentUpon>
+    <EmbeddedResource Include="Form_Retangulo.resx">
+      <DependentUpon>Form_Retangulo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormBasico4.resx">
-      <DependentUpon>FormBasico4.cs</DependentUpon>
+    <EmbeddedResource Include="Form_Pessoa.resx">
+      <DependentUpon>Form_Pessoa.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormBasico5.resx">
-      <DependentUpon>FormBasico5.cs</DependentUpon>
+    <EmbeddedResource Include="Form_ContaCorrente.resx">
+      <DependentUpon>Form_ContaCorrente.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
