@@ -1,0 +1,34 @@
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico1.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico2.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico3.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico4.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico5.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\obj\x86\Debug\Basicas_1_17.csproj.GenerateResource.Cache
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\bin\Debug\Basicas_1_17.exe.config
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasica7.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\obj\x86\Debug\Basicas_1_17.Properties.Resources.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\bin\Debug\Basicas_1_17.exe
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\bin\Debug\Basicas_1_17.pdb
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\obj\x86\Debug\Basicas_1_17.exe
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\obj\x86\Debug\Basicas_1_17.pdb
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico8.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico10.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico9.resources
+C:\Users\Iasmim\Desktop\comp_topicos\solution\Trabalho_1\Lista1\P_1_a_5\obj\x86\Debug\Basicas_1_17.csprojResolveAssemblyReference.cache
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\bin\Debug\Basicas_1_17.exe.config
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\obj\x86\Debug\Basicas_1_17.exe
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\obj\x86\Debug\Basicas_1_17.pdb
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\bin\Debug\Basicas_1_17.exe
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\bin\Debug\Basicas_1_17.pdb
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\obj\x86\Debug\Basicas_1_17.csprojResolveAssemblyReference.cache
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasica7.resources
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico1.resources
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico10.resources
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico2.resources
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico3.resources
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico4.resources
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico5.resources
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico8.resources
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\obj\x86\Debug\Basicas_1_17.FormBasico9.resources
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\obj\x86\Debug\Basicas_1_17.Properties.Resources.resources
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\P_1_a_5\obj\x86\Debug\Basicas_1_17.csproj.GenerateResource.Cache
