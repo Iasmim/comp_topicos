@@ -11,11 +11,25 @@ namespace P011
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form_Funcionario());
+
+            switch (args[0])
+            {
+                case "0":
+                    Application.Run(new Form_Carro());
+                    break;
+                case "1":
+                    Application.Run(new Form_Funcionario());
+                    break;
+                case "2":
+                    Application.Run(new Form_Invertimento());
+                    break;
+                default:
+                    break;
+            }
         }
     }
 }

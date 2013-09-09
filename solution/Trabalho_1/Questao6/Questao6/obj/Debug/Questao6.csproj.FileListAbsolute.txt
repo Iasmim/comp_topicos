@@ -4,3 +4,6 @@ c:\users\leandro farias\documents\visual studio 2012\Projects\Questao6\Questao6\
 c:\users\leandro farias\documents\visual studio 2012\Projects\Questao6\Questao6\bin\Debug\Questao6.pdb
 c:\users\leandro farias\documents\visual studio 2012\Projects\Questao6\Questao6\obj\Debug\Questao6.exe
 c:\users\leandro farias\documents\visual studio 2012\Projects\Questao6\Questao6\obj\Debug\Questao6.pdb
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questao6\Questao6\bin\Debug\Questao6.exe.config
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questao6\Questao6\obj\Debug\Questao6.exe
+C:\Users\Leandro Farias\Documents\GitHub\comp_topicos\solution\Trabalho_1\Questao6\Questao6\obj\Debug\Questao6.pdb
